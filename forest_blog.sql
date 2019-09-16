@@ -18,6 +18,12 @@ SET NAMES utf8;
 SET FOREIGN_KEY_CHECKS = 0;
 
 -- ----------------------------
+--  Database change to `forest_blog`
+-- ----------------------------
+CREATE database IF NOT EXISTS forest_blog;
+USE forest_blog;
+
+-- ----------------------------
 --  Table structure for `article`
 -- ----------------------------
 DROP TABLE IF EXISTS `article`;
