@@ -7,7 +7,7 @@ import com.liuyanzhao.ssm.blog.entity.Category;
 import java.util.List;
 
 /**
- * @author 言曌
+ * @author 空
  * @date 2017/8/24
  */
 public interface CategoryService {

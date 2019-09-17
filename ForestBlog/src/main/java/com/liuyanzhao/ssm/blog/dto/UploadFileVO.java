@@ -3,7 +3,7 @@ package com.liuyanzhao.ssm.blog.dto;
 import lombok.Data;
 
 /**
- * @author 言曌
+ * @author 空
  * @date 2017/11/30 下午7:41
  */
 
